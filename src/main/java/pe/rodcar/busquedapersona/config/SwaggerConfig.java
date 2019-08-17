@@ -27,7 +27,7 @@ public class SwaggerConfig {
 			"");
 	
 	@SuppressWarnings("rawtypes")
-	public static final ApiInfo DEFAULT_API_INFO = new ApiInfo("Documentation of OKRboard API RESTful", "Documentation of OKRboard API RESTful", "1.0",
+	public static final ApiInfo DEFAULT_API_INFO = new ApiInfo("Documentation of BusquedaPersona API RESTful", "Documentation of BusquedaPersona API RESTful", "1.0",
 			"PREMIUM", DEFAULT_CONTACT, "Apache 2.0", "http://www.apache.org/licenses/LICENSE-2.0",
 			new ArrayList<VendorExtension>());
 
